@@ -15,5 +15,16 @@ Open a new terminal:
 Uncomment line 58 in Packet_receiver.java and rerun
 
 ## Additional Information
-Screenshots of the running code is provided: 1.jpg to 3.jpg
-Screenshot of corrupted header behavior: 4.jpg
+Screenshots of the running code is provided:
+
+### Server listening on port
+![packet_receiver](1.jpg)
+
+### Raw datagram sent
+![packet_sender](2.jpg)
+
+### Received message at server side
+![packet_receiver2](3.jpg)
+
+### Corrupted header behavior
+![corrupted](4.jpg)
